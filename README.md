@@ -1,6 +1,6 @@
 # Angry Birds Game
 
-![Angry Birds Logo]([link_to_logo_image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F408256%2Fangry-birds&psig=AOvVaw37b2mS12ZUkC3NeioT61Aj&ust=1707138371349000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiWtpTgkYQDFQAAAAAdAAAAABAE))
+![Angry Birds Logo](AngryBirds.png)
 
 ## Overview
 
